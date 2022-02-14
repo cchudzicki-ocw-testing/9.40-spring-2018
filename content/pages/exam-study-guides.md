@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Exam Study Guides
+type: CourseSection
 uid: 1a0bebbc-28f7-f19b-7a11-32130127efe8
 ---
 
