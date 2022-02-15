@@ -8,6 +8,5 @@ parent_title: Exam Study Guides
 parent_type: CourseSection
 resourcetype: Document
 title: Midterm 1 Study Guide - 9.40 Introduction to Neural Computation
-type: OCWFile
 uid: aff7376b-c302-59e1-496a-2db3c4e03640
 ---

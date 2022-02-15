@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: MIT9_40S18_pset4.zip
-type: OCWFile
 uid: 71b345f1-f5e9-399f-9f41-b64f85b8a1e8
 ---
