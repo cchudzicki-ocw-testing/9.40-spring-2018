@@ -37,7 +37,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 6b1b693b-9137-8b6f-a15d-a16eee7621d4 "Overview and Ionic Currents (PDF - 1.7MB)" >}}
+{{% resource_link 6b1b693b-9137-8b6f-a15d-a16eee7621d4 "Overview and Ionic Currents (PDF - 1.7MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +57,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 45909c8b-f4cb-591d-3f83-95f0ec014fb1 "RC Circuit and Nernst Potential (PDF - 2.7MB)" >}}
+{{% resource_link 45909c8b-f4cb-591d-3f83-95f0ec014fb1 "RC Circuit and Nernst Potential (PDF - 2.7MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +76,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 16084675-fd6a-490a-2ac0-d3d6ae350072 "Nernst Potential and Integrate and Fire Models​ (PDF - 4.1MB)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 16084675-fd6a-490a-2ac0-d3d6ae350072 "Nernst Potential and Integrate and Fire Models​ (PDF - 4.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -95,7 +95,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 4458dad3-0259-d17a-3f1e-df9d7f803fdf "Hodgkin Huxley Model Part 1 (PDF - 6.3MB)" >}}
+{{% resource_link 4458dad3-0259-d17a-3f1e-df9d7f803fdf "Hodgkin Huxley Model Part 1 (PDF - 6.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,7 +104,7 @@ Lecture Notes
 5
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link aaa92d26-e832-b661-a850-e02fbf3bd9bc "Hodgkin Huxley Model Part 2 (PDF - 3.3MB)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link aaa92d26-e832-b661-a850-e02fbf3bd9bc "Hodgkin Huxley Model Part 2 (PDF - 3.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +124,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 65ad58a9-a37d-79e8-6320-8745f30c264d "Dendrites (PDF - 3.2MB)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 65ad58a9-a37d-79e8-6320-8745f30c264d "Dendrites (PDF - 3.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +144,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link fff03c31-25fe-8d59-7cec-46ba356862ae "Synapses (PDF - 3.1MB)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link fff03c31-25fe-8d59-7cec-46ba356862ae "Synapses (PDF - 3.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -164,7 +164,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 7a90ad5e-cc70-3750-6a34-cffd3533935d "Spike Trains (PDF - 2.6MB)" >}}
+{{% resource_link 7a90ad5e-cc70-3750-6a34-cffd3533935d "Spike Trains (PDF - 2.6MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -184,7 +184,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 2b84cf13-2d42-9d08-9f1f-2709f800a9cd "Receptive Fields (PDF - 2.1MB)" >}}
+{{% resource_link 2b84cf13-2d42-9d08-9f1f-2709f800a9cd "Receptive Fields (PDF - 2.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -205,7 +205,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 1bf2762c-9ef0-2991-5015-b61f5eaab59a "Time Series (PDF - 4.5MB)" >}}
+{{% resource_link 1bf2762c-9ef0-2991-5015-b61f5eaab59a "Time Series (PDF - 4.5MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -225,7 +225,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 53731e24-a7b2-be94-c428-9ba479b11079 "Spectral Analysis Part 1 (PDF - 4.3MB)" >}}
+{{% resource_link 53731e24-a7b2-be94-c428-9ba479b11079 "Spectral Analysis Part 1 (PDF - 4.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -248,7 +248,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 3af4f6a0-ae1d-f1d8-8629-3979018142b0 "Spectral Analysis Part 2 (PDF - 3.1MB)" >}}
+{{% resource_link 3af4f6a0-ae1d-f1d8-8629-3979018142b0 "Spectral Analysis Part 2 (PDF - 3.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -271,7 +271,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 8ff190d8-31c8-c04e-5850-37c28f1e1493 "Spectral Analysis Part 3 (PDF - 2.2MB)" >}}
+{{% resource_link 8ff190d8-31c8-c04e-5850-37c28f1e1493 "Spectral Analysis Part 3 (PDF - 2.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -291,7 +291,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 0b7de8f4-cb62-9d99-607a-3179af8a8363 "Rate Models and Perceptrons (PDF - 3.9MB)" >}}
+{{% resource_link 0b7de8f4-cb62-9d99-607a-3179af8a8363 "Rate Models and Perceptrons (PDF - 3.9MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -311,7 +311,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 0993f9f8-231d-ae91-8e3a-6d291b13281f "Matrix Operations (PDF - 4.0MB)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 0993f9f8-231d-ae91-8e3a-6d291b13281f "Matrix Operations (PDF - 4.0MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -331,7 +331,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link a6e8bfd0-a1d7-7c92-718a-3370581f9490 "Basis Sets (PDF - 2.8MB)" >}}
+{{% resource_link a6e8bfd0-a1d7-7c92-718a-3370581f9490 "Basis Sets (PDF - 2.8MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -350,7 +350,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 23203cb4-7ede-79bf-c5c8-c6b1ae2774f2 "Principal Components Analysis​ (PDF - 4.8MB)" >}}
+{{% resource_link 23203cb4-7ede-79bf-c5c8-c6b1ae2774f2 "Principal Components Analysis​ (PDF - 4.8MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -370,7 +370,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 527a5c41-f04e-5789-82b3-af27c85c2824 "Recurrent Networks (PDF - 2.2MB)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 527a5c41-f04e-5789-82b3-af27c85c2824 "Recurrent Networks (PDF - 2.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -389,7 +389,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link cd8480fd-34b8-1875-c5d4-e9c808020203 "Neural Integrators (PDF - 2.0MB)" >}}
+{{% resource_link cd8480fd-34b8-1875-c5d4-e9c808020203 "Neural Integrators (PDF - 2.0MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -410,7 +410,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link d0eb7c14-d2fa-8ddb-6bed-2583d2f2962d "Hopfield Networks (PDF - 2.7MB)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link d0eb7c14-d2fa-8ddb-6bed-2583d2f2962d "Hopfield Networks (PDF - 2.7MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
