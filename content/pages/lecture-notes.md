@@ -76,7 +76,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 16084675-fd6a-490a-2ac0-d3d6ae350072 "Nernst Potential and Integrate and Fire Models​ (PDF - 4.1MB)" %}}
+{{% resource_link 16084675-fd6a-490a-2ac0-d3d6ae350072 "Nernst Potential and Integrate and Fire Models​ (PDF - 4.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,7 +104,7 @@ Lecture Notes
 5
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link aaa92d26-e832-b661-a850-e02fbf3bd9bc "Hodgkin Huxley Model Part 2 (PDF - 3.3MB)" %}}
+{{% resource_link aaa92d26-e832-b661-a850-e02fbf3bd9bc "Hodgkin Huxley Model Part 2 (PDF - 3.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +124,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 65ad58a9-a37d-79e8-6320-8745f30c264d "Dendrites (PDF - 3.2MB)" %}}
+{{% resource_link 65ad58a9-a37d-79e8-6320-8745f30c264d "Dendrites (PDF - 3.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +144,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link fff03c31-25fe-8d59-7cec-46ba356862ae "Synapses (PDF - 3.1MB)" %}}
+{{% resource_link fff03c31-25fe-8d59-7cec-46ba356862ae "Synapses (PDF - 3.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -311,7 +311,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 0993f9f8-231d-ae91-8e3a-6d291b13281f "Matrix Operations (PDF - 4.0MB)" %}}
+{{% resource_link 0993f9f8-231d-ae91-8e3a-6d291b13281f "Matrix Operations (PDF - 4.0MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -370,7 +370,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 527a5c41-f04e-5789-82b3-af27c85c2824 "Recurrent Networks (PDF - 2.2MB)" %}}
+{{% resource_link 527a5c41-f04e-5789-82b3-af27c85c2824 "Recurrent Networks (PDF - 2.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -410,7 +410,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link d0eb7c14-d2fa-8ddb-6bed-2583d2f2962d "Hopfield Networks (PDF - 2.7MB)" %}}
+{{% resource_link d0eb7c14-d2fa-8ddb-6bed-2583d2f2962d "Hopfield Networks (PDF - 2.7MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

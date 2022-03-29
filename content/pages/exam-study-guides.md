@@ -13,4 +13,4 @@ Study Guides
 
 {{% resource_link b85ffcaa-0a84-6642-337d-51fcf1a07152 "Midterm Exam 2 Study Guide (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link d014e73b-1e88-80c5-4f70-14b72f96b37b "Final Exam Study Guide (PDF)" %}}
+{{% resource_link d014e73b-1e88-80c5-4f70-14b72f96b37b "Final Exam Study Guide (PDF)" %}}
