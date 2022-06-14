@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/9-40-introduction-to-neural-computation-spring-2018/970fe9bf37b25619b239647c7a9a23b5_3GC721pNRLE.vtt
+file: /courses/9-40-introduction-to-neural-computation-spring-2018/970fe9bf37b25619b239647c7a9a23b5_3GC721pNRLE.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

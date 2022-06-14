@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/9-40-introduction-to-neural-computation-spring-2018/0ee68ad95cbbbdaed74b124eed3f1f7d_MIT9_40S18_pset6.zip
+file: /courses/9-40-introduction-to-neural-computation-spring-2018/0ee68ad95cbbbdaed74b124eed3f1f7d_MIT9_40S18_pset6.zip
 file_type: application/zip
 learning_resource_types:
 - Assignments
