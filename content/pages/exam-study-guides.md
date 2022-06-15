@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes study notes for both midterms and the final exam
+  for 2018.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Exam Study Guides

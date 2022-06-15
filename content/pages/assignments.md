@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes problem sets and grading rubric and guidelines.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
