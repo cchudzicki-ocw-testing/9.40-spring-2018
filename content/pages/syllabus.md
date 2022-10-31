@@ -1,6 +1,6 @@
 ---
 content_type: page
-description: Syllabuz
+description: Syllabus
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
