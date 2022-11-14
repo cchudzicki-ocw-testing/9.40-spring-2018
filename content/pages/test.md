@@ -18,3 +18,25 @@ Now with interior italics: the quick brown fox sub<sub>sc</sub>*<sub>rip</sub>*<
 And in links: lorem ipsum dolor[<sup>[1]</sup>](https://en.wikipedia.org/wiki/Unicode_subscripts_and_superscripts). blah blah[<sup>footnote 2</sup>](https://en.wikipedia.org/wiki/Unicode_subscripts_and_superscripts). Note that Markdown has a separate syntax for footnotes that might be prefereable but also has some limitations. (Can't re-use footnotes to my knowledge; does not support footnotes at bottom of a table, which is reasonably common in some academic fields.)
 
 And in links: lorem ipsum dolor{{% resource_link "b25112af-1730-9e62-5ee6-fc6a180908c8" "<sup>[3]</sup>" %}}. blah blah {{% resource_link "b25112af-1730-9e62-5ee6-fc6a180908c8" "<sup>see sylabus</sup>" %}}. blah
+
+What about in tables?
+
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
+Header ONE!
+{{< thclose >}}{{< thopen >}}
+Header DOS
+{{< thclose >}}{{< thopen >}}
+Three
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+alpha
+{{< tdclose >}}{{< tdopen >}}
+See[<sup>†</sup>](https://mit.edu)
+{{< tdclose >}}{{< tdopen >}}
+lorem
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+beta
+{{< tdclose >}}{{< tdopen >}}
+Also see{{% resource_link "d89d89f6-49b1-4cde-ab8e-840e4ed76118" "<sup>‡</sup>" %}}. Cool!
+{{< tdclose >}}{{< tdopen >}}
+ipsum
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
