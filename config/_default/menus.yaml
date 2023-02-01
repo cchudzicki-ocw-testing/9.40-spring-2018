@@ -1,11 +1,11 @@
 leftnav:
 - identifier: b25112af-1730-9e62-5ee6-fc6a180908c8
   name: Syllabus
-  url: /pages/syllabus
+  url: ./pages/syllabus
   weight: 10
 - identifier: 8f6c4243-744a-9b41-6623-a021d0178db2
   name: Lecture Notes
-  url: /pages/lecture-notes
+  url: pages/lecture-notes
   weight: 20
 - identifier: 8db271f5-515f-975c-df06-e7c25ae543fe
   name: Lecture Videos
